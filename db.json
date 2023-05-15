@@ -1,0 +1,21 @@
+{
+    "endpointUrl": "https://gupshup.active.ai/morfeus/v1/channels",
+    "botId": "1234567890",
+    "pageBg": "url('libs/websdk/images/bg2.png')",
+    "chatButtonBg": "orange",
+    "botName": "Bot Name",
+    "botIcon": "images/default/bot-icon.png",
+    "css": {
+        "--panel-heading-color": "black",
+        "--user-bubble-bg": "brown",
+        "--user-msg-font-size": "16px",
+        "--user-msg-text-color": "red",
+        "--bot-bubble-bg": "yellow",
+        "--bot-msg-font-size": "20px",
+        "--bot-msg-text-color": "blue",
+        "--typing-anim-dot1": "red",
+        "--typing-anim-dot2": "green",
+        "--typing-anim-dot3": "blue",
+        "--send-btn-color":"blue"
+    }
+}
